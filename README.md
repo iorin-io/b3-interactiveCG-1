@@ -1,4 +1,4 @@
-# b3-interactiveCG
+# b3-interactiveCG-1
 GC50701 インタラクティブCG 第1回課題
 
 ## 使用方法
